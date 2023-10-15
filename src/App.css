@@ -1,0 +1,22 @@
+h1{
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+  padding: 5%;
+}
+table{
+  color: white;
+  border: 1px solid white;
+}
+th{
+  border-bottom:1px solid white ;
+  padding: 7px;
+}
+img{
+  height: 5em;
+}
+.rl{
+  text-decoration: underline;
+}
